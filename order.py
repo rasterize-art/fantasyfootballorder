@@ -6,7 +6,6 @@ participants = [
     'Pranit',
     'Yash',
     'Anuj',
-    'bryce',
     'Arjun',
     'Deepti',
     'Arnav',
